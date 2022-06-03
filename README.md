@@ -8,3 +8,4 @@ This is the third course of the Practical Data Science Specialization.
 
 * Set up a human-in-the-loop pipeline to fix misclassified predictions and generate new training data using Amazon Augmented AI and Amazon SageMaker Ground Truth.
 
+<img src="https://github.com/ntoscano01/certificates/blob/main/Analyze%20Datasets%20and%20Train%20ML%20Models%20using%20AutoML.png" width="400" height="300">
