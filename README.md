@@ -1,1 +1,7 @@
-# optimize_ml_models_and_deploy_human-in-the-loop_pipelines
+# Optimize models using Automatic Model Tuning
+
+1. Configure dataset
+
+2. Configure and run hyper-parameter tuning job
+
+3. Evaluate the results
